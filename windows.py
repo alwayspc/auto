@@ -9,4 +9,3 @@ time.sleep(5)
 subprocess.call("netstat")
 time.sleep(5)
 print ("end")
-sdsd
